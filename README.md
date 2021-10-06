@@ -1,6 +1,6 @@
-# Console.WriteLine("Hello World 🤟🤟🤟")
+# printf("Hello World 🤟🤟🤟")
 
-Hello. My name is Hirasawa Ishigawa [Sila Sonpee]. I'm a Typescript & C# Developer.
+Hello. My name is Hirasawa Ishigawa [Sila Sonpee]. I'm a Typescript and C Developer.
 
 I'm interest High Performance Computing, Web Developement [Backend , Frontend] and I hate python 555.
 
