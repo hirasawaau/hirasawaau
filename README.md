@@ -1,6 +1,6 @@
 # printf("Hello World 🤟🤟🤟")
 
-Hello. My name is Hirasawa Ishigawa [Sila Sonpee]. I'm a Typescript and Go Developer.
+Hello. My name is Sila Sonpee. I'm a Typescript and Go Developer.
 
 I'm interest High Performance Computing, Web Developement [Backend , Frontend] and I hate python 555.
 
