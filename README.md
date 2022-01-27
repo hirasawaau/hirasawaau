@@ -6,7 +6,7 @@ I'm interest High Performance Computing, Web Developement [Backend , Frontend] a
 
 You can follow me at this github or
 
-Facebook: [Hirasawa Ishigawa](https://www.facebook.com/hirasawa.au)
+Facebook: [Sila Sonpee](https://www.facebook.com/hirasawa.au)
 
 Gitlab: [@hirasawa_au](https://gitlab.com/hirasawa_au)
 
