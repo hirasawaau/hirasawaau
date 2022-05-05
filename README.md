@@ -14,3 +14,5 @@ Or contact me 📧 [hirasawa_au@yahoo.co.jp](mailto:hirasawa_au@yahoo.co.jp)
 
 
 Good Luck and Fighting ✌️✌️
+
+![Moe Kawaii](https://count.getloli.com/get/@hirasawaau)
