@@ -1,8 +1,8 @@
 # printf("Hello World 🤟🤟🤟")
 
-Hello. My name is Sila Sonpee. I'm a Typescript and Go Developer.
+Hello. My name is Sila Sonpee. I'm a Computer Engineering student at Kasetsart University.
 
-I'm interest High Performance Computing, Web Developement [Backend , Frontend] and I hate python 555.
+I'm interest High Performance Computing, Web Development [Backend , Frontend]
 
 You can follow me at this github or
 
@@ -15,5 +15,5 @@ Or contact me 📧 [hirasawa_au@yahoo.co.jp](mailto:hirasawa_au@yahoo.co.jp)
 
 Good Luck and Fighting ✌️✌️
 
-![Moe Kawaii](https://count.getloli.com/get/@hirasawaau)
+![Moe Kawaii](https://count.getloli.com/get/@hirasawaau)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
