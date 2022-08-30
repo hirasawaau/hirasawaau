@@ -16,3 +16,4 @@ Or contact me 📧 [hirasawa_au@yahoo.co.jp](mailto:hirasawa_au@yahoo.co.jp)
 Good Luck and Fighting ✌️✌️
 
 ![Moe Kawaii](https://count.getloli.com/get/@hirasawaau)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
