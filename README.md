@@ -1,10 +1,9 @@
 # Hello GitHub
 ## About me
-I'm Sila Sonpee (Hirasawa Ishikawa) (平沢石川). I'm interested in Software Engineering and High performance computing.
+I'm Sila Sonpee (Hirasawa Ishikawa) (平沢石川). I'm interested in Software Engineering, High performance computing, and Quantum Computing.
 ## Language
-- TypeScript
+- JavaScript, TypeScript
 - Go
-- C/C++
-- C#
+- C
 ## Contact
 Check in [linktr.ee](https://linktr.ee/hirasawa_au)
